@@ -1,12 +1,12 @@
-# welcome
-new repo
 <!DOCTYPE html>
 <html>
+<head>
+<meta charset="UTF-8">
+<title>Title of the document</title>
+</head>
+
 <body>
-
-<h1>My First Heading</h1>
-
-<p>My first paragraph.</p>
-
+Content of the document......
 </body>
+
 </html>
